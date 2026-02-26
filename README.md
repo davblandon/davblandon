@@ -26,15 +26,15 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 
 ## 📊 Estadísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davblandon&show_icons=true&theme=github_dark&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davblandon&show_icons=true&theme=dark&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davblandon&layout=compact&theme=github_dark&hide_border=true"/>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davblandon&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🔥 Racha de contribuciones
 
-<img src="https://streak-stats.demolab.com?user=davblandon&theme=github-dark&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=davblandon&theme=dark&hide_border=true)
 
 ---
 
