@@ -1,36 +1,40 @@
 # 👨🏻‍💻 Juan David Blandón Bañol
 
-🎓 Estudiante de Ingeniería en Sistemas y Computación  
-💻 Backend Developer | Java | MVC | SQL  
+🎓 Estudiante de Ingeniería en Sistemas y Computación (8° semestre)  
+🏛 Universidad Tecnológica de Pereira  
+💻 Backend Developer | Java | C++ | SQL  
 📍 Pereira, Colombia  
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy desarrollador enfocado en backend con experiencia en:
+Soy desarrollador backend en formación con enfoque en arquitectura MVC, programación orientada a objetos y buenas prácticas de desarrollo.
 
-- Java (POO, MVC, patrones de diseño)
+Tengo experiencia en:
+
+- Desarrollo en Java (POO, MVC, patrones de diseño)
+- Programación en C++
 - Python
-- Bases de datos SQL
-- Desarrollo web
-- Arquitecturas estructuradas
+- Bases de datos MySQL
+- Diseño de interfaces en Figma
+- Trabajo bajo metodología ágil Scrum
 
-Actualmente me enfoco en fortalecer habilidades en desarrollo backend y análisis de datos.
+Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de datos y arquitectura de software.
 
 ---
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davblandon&show_icons=true&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davblandon&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davblandon&layout=compact&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davblandon&layout=compact&theme=github_dark&hide_border=true"/>
 
 ---
 
 ## 🔥 Racha de contribuciones
 
-![GitHub Streak](https://streak-stats.demolab.com?user=davblandon&theme=github-dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=davblandon&theme=github-dark&hide_border=true"/>
 
 ---
 
@@ -41,13 +45,24 @@ Actualmente me enfoco en fortalecer habilidades en desarrollo backend y análisi
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Tecnologías y Herramientas
 
 ![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-Data-blue?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![Figma](https://img.shields.io/badge/Figma-UI/UX-purple?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📚 Metodologías
+
+- Scrum
+- Trabajo colaborativo
+- Control de versiones con Git
+- Organización por capas (MVC)
 
 ---
 
@@ -57,4 +72,5 @@ Actualmente me enfoco en fortalecer habilidades en desarrollo backend y análisi
 📱 +57 301 3962495  
 
 ---
+
 ⭐ Siempre aprendiendo y construyendo soluciones eficientes.
