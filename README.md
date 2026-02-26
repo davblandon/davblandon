@@ -41,6 +41,11 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 ## ⏳ Tiempo de Programación (WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
