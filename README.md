@@ -41,6 +41,7 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 ## ⏳ Tiempo de Programación (WakaTime)
 
 <!--START_SECTION:waka-->
+![WakaTime](https://wakatime.com/badge/user/69a80b0d-2214-4098-a435-9f8039688640.svg)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davblandonwaka&layout=compact&theme=radical)
 
