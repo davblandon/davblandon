@@ -42,6 +42,8 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 
 <!--START_SECTION:waka-->
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davblandonwaka&layout=compact&theme=radical)
+
 ```txt
 Python   1 hr 6 mins           █████████████████████████   99.96 %
 Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
