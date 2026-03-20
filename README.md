@@ -43,8 +43,7 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs                 █████████████████████████   99.77 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python   1 hr 5 mins           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
