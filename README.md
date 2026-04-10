@@ -43,9 +43,11 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 <!--START_SECTION:waka-->
 
 ```txt
-Python     7 hrs 20 mins         █████████████████████████   99.87 %
+Python     7 hrs 49 mins         ████████████████████████▓   98.62 %
+CSS        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+HTML       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Makefile   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
