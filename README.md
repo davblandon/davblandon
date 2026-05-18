@@ -45,8 +45,8 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 ```txt
 Python        3 hrs 13 mins         ████████████████████▓░░░░   82.75 %
 Markdown      20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Other         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Image (png)   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Other         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Image (png)   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 Text          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
