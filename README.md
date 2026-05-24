@@ -43,11 +43,11 @@ Me interesa fortalecer mis habilidades en desarrollo backend, ingeniería de dat
 <!--START_SECTION:waka-->
 
 ```txt
-PLSQL        1 hr 18 mins          ████████▒░░░░░░░░░░░░░░░░   33.05 %
-Text         1 hr 5 mins           ███████░░░░░░░░░░░░░░░░░░   27.51 %
-JavaScript   36 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Markdown     20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Python       16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Text         1 hr 59 mins          ████████░░░░░░░░░░░░░░░░░   31.92 %
+PLSQL        1 hr 18 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+JavaScript   1 hr 2 mins           ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Markdown     33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+SQL          20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
